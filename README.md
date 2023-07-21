@@ -7,7 +7,7 @@
 
 - 🔭 Currently a student of engineering, but a perpetual learner 🤓
 
-- 👨‍💻 Personal Website [https://mohit138928.github.io/](https://mohit138928.github.io/)
+- 👨‍💻 Personal Website **https://mohit138928.github.io/**
 
 - 📫 How to reach me **mohitmaurya@gmail.com**
 
