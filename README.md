@@ -39,7 +39,7 @@
 
 <h3 align="left">🔥 Streak</h3>
 
-![Mohit Maurya GitHub Streak](https://streak-stats.demolab.com/?user=mohit138928&theme=highcontrast)
 ![Mohit Maurya GeeksForGeeks Streak](https://geeks-for-geeks-stats-card.vercel.app/?username=mauryamohit138)
 ![Mohit Maurya LeetCode Streak](https://leetcard.jacoblin.cool/mauryamohit138?theme=dark&font=Amethysta&ext=heatmap)
+<img align="center" src="https://streak-stats.demolab.com/?user=mohit138928&theme=highcontrast">
 
