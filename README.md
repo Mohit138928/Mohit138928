@@ -7,9 +7,9 @@
 
 - 🔭 Currently a student of engineering, but a perpetual learner 🤓
 
-- 👨‍💻 Personal Website **https://mohit-maurya-portfolio.vercel.app/**
+- 👨‍💻 **[Mohit Maurya Porfolio](https://mohit-maurya-portfolio.vercel.app/)**
 
-- 📫 How to reach me **mohitmaurya@gmail.com**
+- 📫 How to reach me **[Drop a Mail](mohitmaurya@gmail.com)**
 
 ---
 
