@@ -36,9 +36,9 @@
 
 #
 
-<h3 align="left">🔥 Streak</h3>
+<h3 align="left">🌟 Most Used Languages</h3>
 
-![Mohit Maurya Githubh Streak](https://streak-stats.demolab.com/?user=mohit138928&theme=highcontrast)
+![Mohit Maurya Github Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit138928&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 #
 
